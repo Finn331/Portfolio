@@ -141,9 +141,7 @@
 
 ###
 
-<picture>
-<img alt="https://raw.githubusercontent.com/Finn331/Finn331/output/snake.svg" alt="Snake animation" />
-</picture>
+<img src="https://raw.githubusercontent.com/Finn331/Finn331/output/snake.svg" alt="Snake animation" />
 
 ###
 
